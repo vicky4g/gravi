@@ -1,0 +1,128 @@
+[18-Aug-2011 04:44:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[18-Aug-2011 04:45:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[18-Aug-2011 08:30:49] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 373
+[18-Aug-2011 10:30:07] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 373
+[18-Aug-2011 10:38:16] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 373
+[18-Aug-2011 10:41:19] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 373
+[18-Aug-2011 10:42:16] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 373
+[20-Aug-2011 10:08:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[20-Aug-2011 10:09:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[21-Aug-2011 06:09:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[21-Aug-2011 06:10:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[21-Aug-2011 12:50:35] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[21-Aug-2011 12:52:47] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[21-Aug-2011 12:52:55] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receiptgenerate.php on line 230
+[22-Aug-2011 00:28:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 00:30:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 00:30:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 00:32:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 00:33:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 00:34:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 00:34:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[22-Aug-2011 02:17:30] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[22-Aug-2011 04:55:34] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[22-Aug-2011 04:56:39] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[26-Aug-2011 02:44:46] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[26-Aug-2011 23:36:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/receipt.php on line 336
+[27-Aug-2011 10:47:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[27-Aug-2011 11:58:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[27-Aug-2011 11:59:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[27-Aug-2011 14:59:54] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[27-Aug-2011 15:01:30] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[27-Aug-2011 15:02:15] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receiptgenerate.php on line 230
+[28-Aug-2011 05:58:03] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[28-Aug-2011 06:01:35] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[28-Aug-2011 06:03:13] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[28-Aug-2011 06:04:18] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[28-Aug-2011 06:05:17] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[29-Aug-2011 07:15:53] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[29-Aug-2011 11:18:46] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[29-Aug-2011 11:19:51] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 377
+[30-Aug-2011 02:08:27] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 02:12:56] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 03:42:23] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 03:50:25] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:31:33] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:32:45] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:35:12] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:38:58] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:41:42] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:46:09] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:48:23] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:50:18] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 10:55:38] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 11:01:27] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 11:03:38] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[30-Aug-2011 11:04:31] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[31-Aug-2011 14:08:41] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[31-Aug-2011 14:09:38] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[01-Sep-2011 07:23:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/vitgravi/public_html/register/connection.php on line 3
+[02-Sep-2011 00:34:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 00:49:01] PHP Warning:  Division by zero in /home/vitgravi/public_html/register/receipt.php on line 379
+[02-Sep-2011 01:05:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 01:08:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 01:09:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 06:23:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 06:23:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 06:45:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 10:57:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 11:00:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[02-Sep-2011 11:56:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[04-Sep-2011 23:31:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[06-Sep-2011 08:15:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[06-Sep-2011 09:38:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 01:57:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 02:37:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 09:58:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 09:58:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 10:00:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 10:41:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 10:44:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 11:20:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 11:23:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[07-Sep-2011 13:08:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[08-Sep-2011 02:24:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[08-Sep-2011 02:26:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[08-Sep-2011 23:27:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[09-Sep-2011 06:16:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[09-Sep-2011 09:40:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[09-Sep-2011 12:10:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[09-Sep-2011 23:15:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[09-Sep-2011 23:20:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[10-Sep-2011 04:48:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[10-Sep-2011 08:29:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[10-Sep-2011 08:29:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[10-Sep-2011 08:32:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[10-Sep-2011 08:56:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[10-Sep-2011 09:05:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 10:43:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 10:45:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 10:46:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 10:49:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 12:01:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 13:37:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[11-Sep-2011 13:37:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 07:06:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 09:50:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 09:56:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 09:57:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 09:58:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 09:59:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 10:03:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 10:04:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 10:06:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 10:06:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 13:36:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 13:39:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[12-Sep-2011 14:12:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 01:26:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 02:50:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 05:48:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 05:49:59] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 05:51:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 05:57:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 07:07:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 08:40:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 08:41:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 08:41:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
+[13-Sep-2011 10:36:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/vitgravi/public_html/register/registering.php on line 163
