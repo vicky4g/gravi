@@ -1,16 +1,5 @@
 <?php 
-  session_register('col_name');
-  session_register('address');
-  session_register('acc_staff');
-  session_register('accomod_m');
-  session_register('accomod_f');
-  session_register('staff_accomod_m');
-  session_register('staff_accomod_f');
-  session_register('participant');
-  session_register('name0');
-  session_register('phone0');
-  session_register('email0');
-  session_register('gender0');
+ 
   require("constants.php");
   $connection=mysql_connect(DB_SERVER,DB_USER,DB_PASS);  
   if(!$connection)
