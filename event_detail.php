@@ -6,17 +6,7 @@ set_time_limit(20000);
     header("Location:expire.php");
   }
  ?>
-<?php  require("constants.php");
-  $connection=mysql_connect(DB_SERVER,DB_USER,DB_PASS);  
-  if(!$connection)
-  {
-     die("Database connection failed ".mysql_error());
-  }
-  $db=mysql_select_db(DB_NAME,$connection);
-  if(!$db)
-  {
-    die("Database selection failed ".mysql_error());
-  } ?>
+<?php  require("connection.php"); ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>	
@@ -222,6 +212,7 @@ function register(event_id)
                 <div style="text-align:right; width:100%"><input class="blue" type="button" onClick="location.href='receipt.php';" value="Next"></div>
             
         </div>
+		</div>
    </body>
  </html>
       
