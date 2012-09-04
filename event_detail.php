@@ -1,4 +1,5 @@
 <?php
+set_time_limit(20000);
   session_start();
    if($_SESSION['expire']!=1)
   {
